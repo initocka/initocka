@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Michael
+- 👀 I’m interested in malware and creating game cheats.
+- 🌱 I’m currently learning C++
+- 📫 How to reach me; nxt#0001
